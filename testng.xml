@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Default suite">
+<test verbose="3" name ="Default test" >
+    <classes>
+       <class name="com.hrms.testscript.TC001" />
+       <class name="com.hrms.testscript.TC002" />
+        <class name="com.hrms.testscript.TC003" />
+      </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suit -->
